@@ -1,0 +1,1 @@
+/dns/node0.testnet.rialo/udp/4000
