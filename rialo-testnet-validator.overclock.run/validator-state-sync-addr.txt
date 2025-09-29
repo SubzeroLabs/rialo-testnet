@@ -1,0 +1,1 @@
+/dns/rialo-testnet-validator.overclock.run/udp/4200
