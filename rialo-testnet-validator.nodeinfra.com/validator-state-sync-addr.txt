@@ -1,0 +1,1 @@
+/dns/rialo-testnet-validator.nodeinfra.com/udp/4200
