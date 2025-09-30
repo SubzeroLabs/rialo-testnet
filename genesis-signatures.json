@@ -1,0 +1,33 @@
+{
+  "config_hash": "365d8c4acdf1497182191cdd268e03ee0da3001417ffb946f0177046a335834b",
+  "signatures": [
+    {
+      "signer": "0bc7e41ccbcf748d6a8a63901e2ba9aaf50fc185e0738d2023dd71fbf0f54fd5",
+      "signature": "3H8NQFji+rMp+l2/OUQqEbkCYT/tOECjClq59vp7S0EOk1DzC99v9SRr1AOSNwYPXjx9Ac42Gq5K2FtQgCEUCQ=="
+    },
+    {
+      "signer": "209783ac302c70941c91f5d4ee5a42474727679bde3beb9548ed558c2a7d73af",
+      "signature": "YJxs6SmfdDabnfHXk9JzzcuGawb39a59cLpZzab4eP8i81p3SzchGQbtwxnamBuGuhkY61Qt7OLXOZN22+rHAQ=="
+    },
+    {
+      "signer": "d15c67336afbea539f127b197d5c221eb9a4361dd4b2bd4ce06f813995488bb9",
+      "signature": "Wc09hIO1z3CSxjlD/uVicRLHp6J+nGAlfiON7tq8Q/2wu0lcNJWcbeM6WSc/k1C74KgNlhLs30UQX0/m0kaEAw=="
+    },
+    {
+      "signer": "2e4288d393df0653d1187cd64ae2877a52ff32253a89f4499512641bf207188d",
+      "signature": "ooSgjI1AgXB0A/yC1iD67lHsOEMBJe7P2ukQNwjG3eb9hzRtLOF58IFIjA7/+DJm+rknCsNh1NZzZS9oA3EyDA=="
+    },
+    {
+      "signer": "0bbb735ea1b550d176ab2165272d63fbe539a54453d68a0cb28d003af8052fac",
+      "signature": "w/HM/DqJZ5klPm/CW97QWa6LEs9P35ZFKY/7RwQs4oAvF11M+aXW3cX2pfK9is2TR8MyG6ebpc4nVRLPnBEKCw=="
+    },
+    {
+      "signer": "31046d0b566a43fd54156f9539b9ce0149d98ac56d1f265abccf73900fb95326",
+      "signature": "oeh88P+Ka0ziEiekyw11QIMrGFTmCdfgOtdCp5JAAUeaPp0peYWVn5EdBnT2YF1fNj1UT3ePssUKKrbc9H0kDw=="
+    },
+    {
+      "signer": "a7b4e64e0835eedf98d65a1f7417d71bbd275f58093276e25a3688bf21e5a641",
+      "signature": "xcwHdOTrJGevKDgbHaJkxhG/ZIS6QpLJAj67dOiznNBoY5yqP8lzmh2ZqTHyCeRoyVl+CRzxmi3IHvdEspxNBA=="
+    }
+  ]
+}
