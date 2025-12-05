@@ -1,1 +1,0 @@
-/dns/ec2-3-145-124-212.us-east-2.compute.amazonaws.com/udp/4200
