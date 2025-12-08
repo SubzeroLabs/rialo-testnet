@@ -1,0 +1,1 @@
+/dns/node0.testnet.rialo.io/udp/4200
