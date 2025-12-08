@@ -1,0 +1,1 @@
+/dns/fp-rialo-testnet-validator.felixinfra.xyz/udp/4200
