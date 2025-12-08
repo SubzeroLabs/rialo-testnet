@@ -1,0 +1,1 @@
+/dns/rialo-testnet-validator.bharvest.io/udp/4000
