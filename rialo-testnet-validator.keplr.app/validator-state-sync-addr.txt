@@ -1,0 +1,1 @@
+/dns/rialo-testnet-validator.keplr.app/udp/4200
